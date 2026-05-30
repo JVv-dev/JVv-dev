@@ -15,6 +15,7 @@
 # 🎓 Formação
 
 * 🎓 **Bacharelato em Ciência da Computação** - Uninter (Em andamento)
+* 🎓 **Inglês New U-Best** - Uninter (Em andamento)
 
 # 🎯 Objetivo
 
