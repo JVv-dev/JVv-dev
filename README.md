@@ -39,9 +39,7 @@ Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), onde
 
 <br><br>
 
+
 ### 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JVv-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVv-dev&layout=compact&theme=tokyonight" width="48%" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JVv-dev&theme=tokyonight)](https://github.com/JVv-dev)
