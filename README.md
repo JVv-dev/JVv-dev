@@ -9,7 +9,9 @@
 ---
 
 # 🧠 Sobre mim
+Sou estudante de Ciência da Computação apaixonado por tecnologia e desenvolvimento de software. Desde cedo, sempre tive facilidade para entender como as coisas funcionam e transformar ideias em soluções práticas através da programação.
 
+Além da tecnologia, valorizo disciplina, constância e evolução contínua, princípios que aplico tanto nos estudos quanto nos meus projetos pessoais. Meu objetivo é construir uma carreira sólida na área de desenvolvimento, trabalhar em projetos desafiadores e contribuir para soluções que façam a diferença.
 
 
 # 🎓 Formação
